@@ -1,0 +1,29 @@
+{
+  "name": "cinema",
+  "version": "1.0.0",
+  "description": "Cinema_prjct",
+  "main": "script/app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olexa-git/Cinema.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "author": "Oleksandr Plutaev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olexa-git/Cinema/issues"
+  },
+  "homepage": "https://github.com/Olexa-git/Cinema#readme",
+  "devDependencies": {
+    "npm-run-all": "^4.1.5",
+    "sass": "^1.55.0",
+    "serve": "^14.0.1"
+  }
+}
