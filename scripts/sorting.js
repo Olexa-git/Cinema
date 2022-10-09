@@ -1,4 +1,4 @@
-import {createFragmentTemplate} from './helpers.js';
+import { createFragmentTemplate } from './helpers.js';
 
 export function createSorting() {
   const sort = new URLSearchParams(location.search).get('sort');

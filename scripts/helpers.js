@@ -4,7 +4,7 @@ export function createFragmentTemplate(str) {
   template.innerHTML = str;
 
   return template.content;
-}
+} 
 
 export function appendContent(id, content) {
   const el = document.getElementById(id);

@@ -1,6 +1,4 @@
-import {createFragmentTemplate} from './helpers.js';
-// import * as helpers from './helpers.js'; альтернативний вид імпорту
-// return helpers.createFragmentTemplate(article); прицьому функція викликається у такий спосіб;
+import { createFragmentTemplate } from './helpers.js';
 
 export function createContentTemplate(movie) {
   const article = `<article class="card">
